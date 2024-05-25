@@ -8,17 +8,25 @@ This README provides a step-by-step guide on performing RFM analysis using the S
 # Requirements :-
 
 To perform the RFM analysis, you'll need the following Python libraries:
+
 pandas
+
 numpy
+
 matplotlib
+
 seaborn
+
 You can install these libraries using pip:
 
 # Calculate RFM Metrics :- 
 
 Recency: Days since the last purchase.
+
 Frequency: Number of purchases.
+
 Monetary: Total amount spent.
+
 
 # Conclusion :-
 
